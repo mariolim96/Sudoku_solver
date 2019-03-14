@@ -1,2 +1,2 @@
 # Sudoku_solver 
-the implication function isn't used into program 
+little program that create,resolve sudoku(you can play it too :P)
