@@ -1,2 +1,2 @@
 # Sudoku_solver 
-little program that create,resolve sudoku(you can play it too :P)
+little program that create and resolve sudoku(you can play it too :P)
